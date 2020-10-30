@@ -6,8 +6,8 @@ Hacky hardcoded Halloween icon animation player for M5Atom
 Displays 4 simple Halloween themed 5x5 "pixel" animations
 on the M5Atom's matrix.
 
-This code is all a bit of fun for my 1 and 5 year olds
-- the icons were designed and the program written in a 
+This code is all a bit of fun for my 1 and 5 year olds, 
+the icons were designed and the program written in a 
 couple of hours before Halloween - hope you get some
 enjoyment out of it too!
 
